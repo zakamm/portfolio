@@ -41,10 +41,7 @@ const Projects = () => {
       className="max-w-3xl mx-auto px-6 py-6 animate-slide-in"
       style={{ animationDelay: "600ms" }}
     >
-      <h2 className="text-2xl font-bold text-white mb-1">
-        Projects
-        <span className="text-gray-400 text-base font-normal"> – hover!</span>
-      </h2>
+      <h2 className="text-2xl font-bold text-white mb-1">Projects</h2>
 
       <div className="space-y-4 mt-4">
         {projects.map((project, index) => (

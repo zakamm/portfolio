@@ -57,5 +57,5 @@ html {
 
 .animate-slide-in {
   opacity: 0;
-  animation: slideInFromTop 0.8s ease-out forwards;
+  animation: slideInFromTop 0.4s ease-out forwards;
 }

@@ -17,19 +17,6 @@ export default function Home() {
       <Experience />
       <Education />
       <Awards />
-
-      {/* Footer */}
-      <footer className="border-t border-gray-800 py-4">
-        <div className="max-w-3xl mx-auto px-6 text-center">
-          <p className="text-gray-400 text-sm">
-            © 2025 Muhammad Zaka. Built with Next.js and Tailwind CSS.
-          </p>
-          <p className="text-gray-500 text-xs mt-1">
-            Open to internship opportunities - let&apos;s build something
-            amazing together!
-          </p>
-        </div>
-      </footer>
     </div>
   );
 }
