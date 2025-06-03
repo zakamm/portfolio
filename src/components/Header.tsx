@@ -45,7 +45,7 @@ const Header = () => {
               LinkedIn
             </a>{" "}
             <a
-              href="https://twitter.com/zakamm"
+              href="https://x.com/zaka_mohid"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors duration-200 underline decoration-gray-500 hover:decoration-white underline-offset-2 decoration-1"
